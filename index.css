@@ -1,0 +1,56 @@
+body {
+    background-image: url("30489_mainfoto_03.jpeg");
+    background-size: cover;
+    font-family: Roboto;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+   font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+     font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.inner {
+        background: whitesmoke;
+        padding: 20px;
+        width: 80%;
+ max-width: 600px;
+        min-width: 240px; 
+        margin: 20px auto;
+}
+
+#increment-btn {
+    background: #9BED65;
+        color: green;
+   border: 2px green solid;
+    
+}
+
+#save-btn {
+    background: #02AEFF;
+           color: #00315B;
+     border: 2px #00315B solid;
+}
+
+#save-el {
+         font-weight: bold;
+}
+
